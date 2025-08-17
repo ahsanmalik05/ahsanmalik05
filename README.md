@@ -29,8 +29,6 @@
 
 ## 📊 GitHub Stats
 
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanmalik05&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanmalik05&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahsanmalik05&theme=tokyonight&hide_border=true)
 
 ---
