@@ -1,5 +1,5 @@
 # hey, i'm ahsan
-cs @ uoft (math minor)  
+cs @ uoft (math minor, stats minor)  
 sde intern @ blue j  
 uoft TA (csc263, winter 2026)
 
